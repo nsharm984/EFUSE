@@ -142,6 +142,37 @@
 			)
 		)
 	)
+	(wire
+		(pts
+			(xy 100.33 72.39) (xy 100.33 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03a0a1db-618e-4345-b9a3-63f15556413b")
+	)
+	(wire
+		(pts
+			(xy 68.58 72.39) (xy 100.33 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3925ce04-6403-4581-8d57-280e5d937b2e")
+	)
+	(label "HIIII_NITYA WAZ_HERE"
+		(at 100.33 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e38a6e48-610d-4588-801a-b9f8089952d8")
+	)
 	(symbol
 		(lib_id "Device:C")
 		(at 68.58 64.77 0)
